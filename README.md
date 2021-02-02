@@ -1,3 +1,3 @@
 # myrepo
 testing my setup
-I ma testing git
+I'm testing git
